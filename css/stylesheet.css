@@ -1,0 +1,50 @@
+#content{
+    text-align: center;
+    margin-left: 20%;
+    margin-right:20%;
+    margin-top: 20%;
+    border-style: solid;
+    border-spacing: 10%;
+    font-size: 100%;
+    padding-left: 4%;
+    letter-spacing: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(255, 0, 0);
+    
+    
+
+}
+
+#image img{
+   width : 30%;
+   height: auto;
+   margin-top: 2%;
+   margin-left: 35%;
+   
+}
+
+#left{
+    float: left;
+    margin: auto;
+    margin-top: 10%;
+    margin-left: 3%;
+}
+
+section{
+    background-image: url("poster.jpg");
+    background-color: rgb(192, 209, 209);
+    margin-left: 20%;
+    margin-right:20%;
+}
+
+#info {
+    text-align: center;
+}
+
+#info  {
+    text-align: center;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
